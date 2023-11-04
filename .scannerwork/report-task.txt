@@ -1,0 +1,6 @@
+projectKey=WorldCup2022-main
+serverUrl=http://localhost:9000
+serverVersion=9.9.2.77730
+dashboardUrl=http://localhost:9000/dashboard?id=WorldCup2022-main
+ceTaskId=AYuX5PQD2QWGpvvz9kAR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYuX5PQD2QWGpvvz9kAR
